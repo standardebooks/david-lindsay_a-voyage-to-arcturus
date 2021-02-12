@@ -43,6 +43,9 @@
 		<meta property="term" refines="#subject-4">sh2008106912</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">37</meta>
 		<dc:description id="description">One man’s journey through a psychedelic alien landscape of philosophy, religion, life, and death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;On hearing the title &lt;i&gt;A Voyage to Arcturus&lt;/i&gt;, one might picture an astronaut strapping themselves into a rocket and flying into space for a swashbuckling adventure. Nothing could be further from what this book actually is.&lt;/p&gt;
